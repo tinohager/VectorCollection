@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="VectorCollectionCashDesk.svg">
+   sodipodi:docname="CollectionCashDesk.svg">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -106,9 +106,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4000714"
-     inkscape:cx="277.45039"
-     inkscape:cy="561.38067"
+     inkscape:zoom="0.7000357"
+     inkscape:cx="454.06697"
+     inkscape:cy="568.38459"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -126,7 +126,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -136,7 +136,7 @@
      id="layer1">
     <g
        id="g1384"
-       transform="translate(49.342481,-1.0239818)">
+       transform="translate(47.07474,-161.65567)">
       <g
          id="g1237-8"
          transform="translate(-67.356501,57.338245)"
@@ -342,7 +342,8 @@
     </g>
   </g>
   <g
-     id="g1518">
+     id="g1518"
+     transform="translate(-2.2677415,-160.63169)">
     <g
        id="g1237-8-9"
        transform="translate(53.493239,55.109777)"
